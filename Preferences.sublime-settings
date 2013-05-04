@@ -1,9 +1,15 @@
 {
-  "drag_text": false,
-  "gutter": false,
-  "line_numbers": false,
-  "save_on_focus_lost": true,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true
+	"auto_complete": false,
+	"drag_text": false,
+	"ensure_newline_at_eof_on_save": true,
+	"gutter": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": false,
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
