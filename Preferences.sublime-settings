@@ -5,7 +5,6 @@
 	"gutter": false,
 	"ignored_packages":
 	[
-		"Vintage"
 	],
 	"line_numbers": false,
 	"save_on_focus_lost": true,
